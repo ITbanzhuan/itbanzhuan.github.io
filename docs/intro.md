@@ -2,46 +2,44 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 文档上传
 
-Let's discover **Docusaurus in less than 5 minutes**.
+让我们看下这个玩意怎么搞
 
-## Getting Started
+## 1.安装docusaurus
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
+```
+npm init docusaurusshell
 ```
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## 2.运行网站
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+命令1：`cd my-website`
 
-## Start your site
+命令2：`npm run start`或`yarn run start`
 
-Run the development server:
+退出快捷键：`ctrl`+`c`
 
-```bash
-cd my-website
-npm run start
+## 3.生成静态文件
+
+命令1：`npm run build`或`yarn run build`
+
+## 4.测试
+
+命令1：`npm run serve或yarn run serve`
+
+## 5.源码上传到仓库
+
+```
+git init
+git add ./
+git commit -m "first commit"
+git branch -M master
+git remote add origin git@github.com:xxx/xxx.github.io.git
+git push -u origin master
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+## 6.上传到分支gh-pages
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+GIT_USER=ITbanzhuan yarn deploy
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
