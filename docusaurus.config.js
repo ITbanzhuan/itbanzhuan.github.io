@@ -157,7 +157,7 @@ const config = {
           appId: '9IL9JZ9U82',
           // Public API key: it is safe to commit it
           apiKey: '779e38e45b3582215233531f9b7a20a2',
-          indexName: 'banzhuan',
+          indexName: 'itbanzhuan.github.io',
       },
     }),
 };
