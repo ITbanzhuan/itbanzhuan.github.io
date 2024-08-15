@@ -144,4 +144,18 @@ const config = {
     }),
 };
 
+module.exports = {
+  plugins: [
+    [require.resolve('@cmfcmf/docusaurus-search-local'), { // warning: Use '@cmfcmf/docusaurus-search-local' (without the require.resolve) if you use Docusaurus before v2.0.0-alpha.56
+      blogBasePath: '/blog', // must correspond to the base path configured for the blog plugin
+      docsBasePath: '/docs', // must correspond to the base path configured for the docs plugin
+      indexBlog: true, // whether to index blog pages
+      indexDocs: true, // whether to index docs pages
+      indexPages: false, // whether to index static pages
+      // /404.html is never indexed
+      language: "ar, da, de, en, es, fi, fr, hi, hu, it, ja, nl, no, pt, ro, ru, sv, th, tr, vi, zh" // language of your documentation, see next section
+    }]
+  ],
+};
+
 module.exports = config;
