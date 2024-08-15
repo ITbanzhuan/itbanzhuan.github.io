@@ -146,10 +146,10 @@ const config = {
       },
       algolia: {
           // The application ID provided by Algolia
-          appId: 'ZJ43Z4EGHA',
+          appId: '9IL9JZ9U82',
           // Public API key: it is safe to commit it
-          apiKey: 'd025fa60034c625502ec1713ce54f4cc',
-          indexName: 'itbanzhuan',
+          apiKey: '779e38e45b3582215233531f9b7a20a2',
+          indexName: 'itbanzhuan.github.io',
       },
     }),
 };
