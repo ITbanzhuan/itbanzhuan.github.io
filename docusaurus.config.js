@@ -58,17 +58,6 @@ const config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      // 这个插件会为你的站点创建一个站点地图
-      // 以便搜索引擎的爬虫能够更准确地爬取你的网站
-      sitemap: {
-        changefreq: "weekly",
-        priority: 0.5,
-        ignorePatterns: ["/tags/**"],
-        filename: "sitemap.xml",
-      },
       }),
     ],
   ],
@@ -151,13 +140,6 @@ const config = {
       prism: {
           theme: prismThemes.github,
           darkTheme: prismThemes.dracula,
-      },
-      algolia: {
-          // The application ID provided by Algolia
-          appId: '9IL9JZ9U82',
-          // Public API key: it is safe to commit it
-          apiKey: '779e38e45b3582215233531f9b7a20a2',
-          indexName: 'itbanzhuan.github.io',
       },
     }),
 };
