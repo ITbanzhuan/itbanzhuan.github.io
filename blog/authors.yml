@@ -1,25 +1,32 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
-
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+搬砖人1号:
+  name: 搬砖人1号
+  title: 你好，我是搬砖人1号
+  url: https://github.com/ITbanzhuan
+  image_url: https://github.com/ITbanzhuan/itbanzhuan.github.io/tree/gh-pages/logo-1.png
   socials:
-    x: yangshunz
-    github: yangshun
+    x: ITbanzhuan
+    linkedin: ITbanzhuan
+    github: ITbanzhuan
+    newsletter: ITbanzhuan
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+搬砖人2号:
+  name: 搬砖人2号
+  title: 你好，我是搬砖人2号
+  url: https://github.com/ITbanzhuan
+  image_url: https://github.com/ITbanzhuan/itbanzhuan.github.io/tree/gh-pages/logo-1.png
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    x: ITbanzhuan
+    linkedin: ITbanzhuan
+    github: ITbanzhuan
+    newsletter: ITbanzhuan
+
+搬砖人3号:
+  name: 搬砖人3号
+  title: 你好，我是搬砖人3号
+  url: https://github.com/ITbanzhuan
+  image_url: https://github.com/ITbanzhuan/itbanzhuan.github.io/tree/gh-pages/logo-1.png
+  socials:
+    x: ITbanzhuan
+    linkedin: ITbanzhuan
+    github: ITbanzhuan
+    newsletter: ITbanzhuan

@@ -91,7 +91,7 @@ const config = {
           },
           {to: '/blog', label: '动态', position: 'left'},
           {
-            href: 'https://github.com/ITbanzhuan/itbanzhuan.github.io',
+            href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
@@ -101,32 +101,28 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: '本地站点',
+            title: 'Docs',
             items: [
               {
                 label: '文档',
                 to: '/docs/intro',
               },
-              {
-                label: '动态',
-                to: '/blog',
-              },
             ],
           },
           {
-            title: '其他站点',
+            title: 'Community',
             items: [
               {
-                label: '站点1',
-                href: 'xxx',
+                label: 'Stack Overflow',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: '站点2',
-                href: 'xxx',
+                label: 'Discord',
+                href: 'https://discordapp.com/invite/docusaurus',
               },
               {
-                label: '站点3',
-                href: 'xxx',
+                label: 'Twitter',
+                href: 'https://twitter.com/docusaurus',
               },
             ],
           },
@@ -134,7 +130,11 @@ const config = {
             title: 'More',
             items: [
               {
-                label: '网站建设参考',
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
