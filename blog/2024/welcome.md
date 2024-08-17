@@ -1,7 +1,7 @@
 ---
-slug: 欢迎光临
+slug: welcome
 title: 欢迎光临
-authors: [搬砖人1号]
+authors: [搬砖]
 tags: [facebook, hello, docusaurus] 
 ---
 

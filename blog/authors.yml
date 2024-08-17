@@ -1,32 +1,5 @@
-搬砖人1号:
-  name: 搬砖人1号
+搬砖:
+  name: 搬砖
   title: 你好，我是搬砖人1号
   url: https://github.com/ITbanzhuan
-  image_url: https://github.com/ITbanzhuan/itbanzhuan.github.io/tree/gh-pages/logo-1.png
-  socials:
-    x: ITbanzhuan
-    linkedin: ITbanzhuan
-    github: ITbanzhuan
-    newsletter: ITbanzhuan
-
-搬砖人2号:
-  name: 搬砖人2号
-  title: 你好，我是搬砖人2号
-  url: https://github.com/ITbanzhuan
-  image_url: https://github.com/ITbanzhuan/itbanzhuan.github.io/tree/gh-pages/logo-1.png
-  socials:
-    x: ITbanzhuan
-    linkedin: ITbanzhuan
-    github: ITbanzhuan
-    newsletter: ITbanzhuan
-
-搬砖人3号:
-  name: 搬砖人3号
-  title: 你好，我是搬砖人3号
-  url: https://github.com/ITbanzhuan
-  image_url: https://github.com/ITbanzhuan/itbanzhuan.github.io/tree/gh-pages/logo-1.png
-  socials:
-    x: ITbanzhuan
-    linkedin: ITbanzhuan
-    github: ITbanzhuan
-    newsletter: ITbanzhuan
+  image_url: https://avatars.githubusercontent.com/u/54429165?s=400&u=fbea3d34ffd2a40beee6b7e4170d782b120cf8bf&v=4

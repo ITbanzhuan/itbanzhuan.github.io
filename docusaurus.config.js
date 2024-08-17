@@ -118,15 +118,15 @@ const config = {
             items: [
               {
                 label: '站点1',
-                href: 'xxx',
+                href: 'https://github.com/ITbanzhuan/itbanzhuan.github.io',
               },
               {
                 label: '站点2',
-                href: 'xxx',
+                href: 'https://github.com/ITbanzhuan/itbanzhuan.github.io',
               },
               {
                 label: '站点3',
-                href: 'xxx',
+                href: 'https://github.com/ITbanzhuan/itbanzhuan.github.io',
               },
             ],
           },
